@@ -10,7 +10,7 @@ Asset (most commonly Vehicle) Tracking using GPS with MQTT connectivity.
 7. USB micro cable to connect ESP32 development board to the computer.
 8. A WiFi Hotspot
 
-# Hardware Setupt and Connections
+# Hardware Setup and Connections
 The GPS module will be powered with 3.3V power supply from ESP32.
 It can communicates with the ESP32 via serial communication [we can use software serial channel] using the TX and RX pins available on the 4 pins header.
 Connect the VCC pin of the GPS module to the ESP32 3.3V pin.
